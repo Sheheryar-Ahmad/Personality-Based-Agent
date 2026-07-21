@@ -67,11 +67,4 @@ Then open the local URL shown in the console.
 
 Each personality is defined by a system prompt that limits the AI assistant to a specific subject area and instructs it to politely decline unrelated questions.
 
-## Notes
 
-- This repository uses the `openai` Python package with a custom `base_url`.
-- The model names shown in the UI are `llama-3.1-8b-instant` and `llama-3.3-70b-versatile`.
-
-## License
-
-This project does not include a license file. Add one if you want to share or publish the code.
